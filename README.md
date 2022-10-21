@@ -10,7 +10,7 @@ communication and electronics
 ## my favorite team
 software
 # clonning my repo
-- you can clone my repo by the following command
+- you can clone my repo by the following command    
   `git clone https://github.com/reem2010/reem_tarek_mindcloud.git`
 # following me on github
 - you can find my github account
